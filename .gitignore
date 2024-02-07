@@ -1,6 +1,7 @@
-# SQLite database file
+/venv/
+
 *.sqlite3
 
-# .pyc files
 __pycache__/
 *.pyc
+
